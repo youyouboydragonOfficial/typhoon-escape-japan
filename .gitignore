@@ -3,6 +3,9 @@ obj/
 publish/
 publish-fx/
 *.zip
+installer-stage/
+.nuget-packages/
+TyphoonEscapeJapan-Setup-win-x64.exe
 .vs/
 *.user
 *.suo

@@ -29,7 +29,7 @@ dotnet run
 ./build-release.ps1
 ```
 
-配布ZIPは .NET 10 Desktop Runtime が入った Windows x64 環境で実行してください。開発環境では `dotnet run` が利用できます。
+`TyphoonEscapeJapan-Setup-win-x64.exe` は .NET 10 Desktop Runtime を同梱したユーザー単位インストーラーです。管理者権限なしでインストールし、デスクトップとスタートメニューにショートカットを作ります。「アプリと機能」からアンインストールできます。開発環境では `dotnet run` が利用できます。
 
 ## License
 
